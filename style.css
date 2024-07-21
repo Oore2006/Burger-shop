@@ -252,12 +252,13 @@ nav{
     font-weight: 600;
     color: var(--text-dark);
 }
+/* order card paragraph */
 .order_card p{
     margin-bottom: 2rem;
     font-weight: 500;
     color: var(--text-dark);
     line-height: 1.75rem; 
-    font-size: 7.5rem;
+    
 }
 
 .event_details{

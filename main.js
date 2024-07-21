@@ -2,6 +2,8 @@ const menuBtn = document.getElementById("menu-btn");
 const navLinks = document.getElementById("nav-links");
 const menuBtnIcon = menuBtn.querySelector("i");
 
+
+console.log("Hello world")
 menuBtn.addEventListener("click", (e) => {
     navLinks.classList.toggle("open");
 
